@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>bootstrap basics</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    </head>
+    <body>
+
+        <nav class="navbar navbar-default">
+            <div class="container" >
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#example" aria-expanded="false" >
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <a href="#" class="navbar-brand" >Coffee</a>
+
+                <div class="collapse navbar-collapse" id="example" >
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">about</a> </li>
+                        <li><a href="#" >contact</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right" >
+                        <li><a href="#" >sign up</a></li>
+                        <li><a href="#" >login</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container" >
+            <div class="jumbotron" >
+                <h1>this is a jumbotron</h1>
+                <p>this is nothing important</p>
+                <button class="btn btn-success btn-large" >Howdy</button>
+            </div>
+
+            <h1>boostrap stuff</h1>
+
+            <button class="btn btn-success btn-xs">click me</button>
+            <a href="http://www.getbootstrap.com" class="btn btn-info btn-lg" >Bootstrap stuff</a>
+            <button class="btn btn-success btn-xs active">click me</button>
+            <button class="btn btn-success btn-xs" disabled="disabled">click me</button>
+            <button class="btn btn-success btn-xs">click me</button>
+            <button class="btn btn-success btn-xs">click me</button>
+
+            <form>
+                <div class="form-group">
+                    <label for="examleEmailInput" >Email address</label>
+                    <input class="form-control" id="examleEmailInput" type="email" placeholder="Email">
+                    <p class="help-block" >Enter a real email address, please</p>
+                </div>
+                <div class="form-group">
+                    <label for="examplePassword" >Password</label>
+                    <input class="form-control" id="examplePassword"  type="password"  placehold="Password" >
+                </div>
+
+                <button type="submit" class="btn btn-default" >submit</button>
+            </form>
+
+        </div>
+        <script
+			      src="https://code.jquery.com/jquery-2.2.4.min.js"
+			      integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+			      crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    </body>
+</html>

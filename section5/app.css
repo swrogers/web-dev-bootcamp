@@ -1,0 +1,22 @@
+body {
+    background: url(https://www.neenahpaper.com/-/media/images/storefront/chips/classic-woodgrain-papers/classic-woodgrain-papers-cool-gray-woodgrain.ashx);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    /* border-color: purple; */
+    /* border-width: 5px; */
+    /* border-style: solid; */
+    border: 5px solid purple;
+}
+
+h4 {
+    background: rgb(255,100,80);
+}
+
+li {
+    color: orange;
+}
+
