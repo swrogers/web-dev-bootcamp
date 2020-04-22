@@ -1,0 +1,91 @@
+[13:6:10.484] Global cache location '/home/swrogers/.cache/typescript/3.8', safe file path '/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/typesMap.json
+[13:6:10.484] Processing cache location '/home/swrogers/.cache/typescript/3.8'
+[13:6:10.485] Trying to find '/home/swrogers/.cache/typescript/3.8/package.json'...
+[13:6:10.894] Loaded content of '/home/swrogers/.cache/typescript/3.8/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.486"},"devDependencies":{"@types/accepts":"^1.3.5","@types/basic-auth":"^1.1.3","@types/body-parser":"^1.19.0","@types/bson":"^4.0.1","@types/cookie":"^0.3.3","@types/cookie-parser":"^1.4.2","@types/cookie-signature":"^1.0.3","@types/cors":"^2.8.6","@types/debug":"^4.1.5","@types/depd":"^1.1.32","@types/ee-first":"^1.1.0","@types/ejs":"^3.0.1","@types/errorhandler":"^1.5.0","@types/escape-html":"0.0.20","@types/express":"^4.17.2","@types/express-jwt":"0.0.42","@types/express-session":"^1.17.0","@types/http-errors":"^1.6.3","@types/inherits":"0.0.30","@types/jsonwebtoken":"^8.3.8","@types/jws":"^3.2.1","@types/koa":"^2.11.2","@types/koa-logger":"^3.1.1","@types/koa-router":"^7.4.0","@types/koa-views":"^2.0.4","@types/lodash.includes":"^4.3.6","@types/lodash.isboolean":"^3.0.6","@types/lodash.isinteger":"^4.0.6","@types/lodash.isnumber":"^3.0.6","@types/lodash.isplainobject":"^4.0.6","@types/lodash.isstring":"^4.0.6","@types/lodash.once":"^4.1.6","@types/merge-descriptors":"^1.0.1","@types/method-override":"0.0.31","@types/methods":"^1.1.0","@types/mime-types":"^2.1.0","@types/mongodb":"^3.3.16","@types/mongoose":"^5.7.3","@types/mongoose-unique-validator":"^1.0.3","@types/morgan":"^1.9.0","@types/negotiator":"^0.6.1","@types/node":"^13.7.7","@types/nodemon":"^1.19.0","@types/object-assign":"^4.0.30","@types/on-finished":"^2.3.1","@types/on-headers":"^1.0.0","@types/parseurl":"^1.3.1","@types/passport":"^1.0.2","@types/passport-local":"^1.0.33","@types/passport-strategy":"^0.2.35","@types/pause":"^0.1.0","@types/pug":"^2.0.4","@types/random-bytes":"^1.0.0","@types/request":"^2.48.4","@types/serve-static":"^1.13.3","@types/slug":"^0.9.1","@types/statuses":"^1.5.0","@types/uid-safe":"^2.1.2","@types/underscore":"^1.9.4","@types/vary":"^1.1.0"}}
+[13:6:10.894] Loaded content of '/home/swrogers/.cache/typescript/3.8/package-lock.json'
+[13:6:11.363] Adding entry into typings cache: 'accepts' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/accepts/index.d.ts'
+[13:6:11.472] Adding entry into typings cache: 'basic-auth' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/basic-auth/index.d.ts'
+[13:6:11.579] Adding entry into typings cache: 'body-parser' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/body-parser/index.d.ts'
+[13:6:11.656] Adding entry into typings cache: 'bson' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/bson/index.d.ts'
+[13:6:11.727] Adding entry into typings cache: 'cookie' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/cookie/index.d.ts'
+[13:6:11.819] Adding entry into typings cache: 'cookie-parser' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/cookie-parser/index.d.ts'
+[13:6:11.904] Adding entry into typings cache: 'cookie-signature' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/cookie-signature/index.d.ts'
+[13:6:12.40] Adding entry into typings cache: 'cors' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/cors/index.d.ts'
+[13:6:12.47] Adding entry into typings cache: 'debug' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/debug/index.d.ts'
+[13:6:12.81] Adding entry into typings cache: 'depd' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/depd/index.d.ts'
+[13:6:12.111] Adding entry into typings cache: 'ee-first' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/ee-first/index.d.ts'
+[13:6:12.142] Adding entry into typings cache: 'ejs' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/ejs/index.d.ts'
+[13:6:12.158] Adding entry into typings cache: 'errorhandler' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/errorhandler/index.d.ts'
+[13:6:12.201] Adding entry into typings cache: 'escape-html' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/escape-html/index.d.ts'
+[13:6:12.300] Adding entry into typings cache: 'express' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/express/index.d.ts'
+[13:6:12.318] Adding entry into typings cache: 'express-jwt' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/express-jwt/index.d.ts'
+[13:6:12.330] Adding entry into typings cache: 'express-session' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/express-session/index.d.ts'
+[13:6:12.342] Adding entry into typings cache: 'http-errors' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/http-errors/index.d.ts'
+[13:6:12.377] Adding entry into typings cache: 'inherits' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/inherits/index.d.ts'
+[13:6:12.452] Adding entry into typings cache: 'jsonwebtoken' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/jsonwebtoken/index.d.ts'
+[13:6:12.456] Adding entry into typings cache: 'jws' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/jws/index.d.ts'
+[13:6:12.685] Adding entry into typings cache: 'koa' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/koa/index.d.ts'
+[13:6:12.931] Adding entry into typings cache: 'koa-logger' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/koa-logger/index.d.ts'
+[13:6:13.152] Adding entry into typings cache: 'koa-router' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/koa-router/index.d.ts'
+[13:6:13.231] Adding entry into typings cache: 'koa-views' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/koa-views/index.d.ts'
+[13:6:13.236] Adding entry into typings cache: 'lodash.includes' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/lodash.includes/index.d.ts'
+[13:6:13.250] Adding entry into typings cache: 'lodash.isboolean' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/lodash.isboolean/index.d.ts'
+[13:6:13.301] Adding entry into typings cache: 'lodash.isinteger' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/lodash.isinteger/index.d.ts'
+[13:6:13.328] Adding entry into typings cache: 'lodash.isnumber' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/lodash.isnumber/index.d.ts'
+[13:6:13.334] Adding entry into typings cache: 'lodash.isplainobject' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/lodash.isplainobject/index.d.ts'
+[13:6:13.373] Adding entry into typings cache: 'lodash.isstring' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/lodash.isstring/index.d.ts'
+[13:6:13.381] Adding entry into typings cache: 'lodash.once' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/lodash.once/index.d.ts'
+[13:6:13.415] Adding entry into typings cache: 'merge-descriptors' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/merge-descriptors/index.d.ts'
+[13:6:13.441] Adding entry into typings cache: 'method-override' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/method-override/index.d.ts'
+[13:6:13.512] Adding entry into typings cache: 'methods' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/methods/index.d.ts'
+[13:6:13.623] Adding entry into typings cache: 'mime-types' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/mime-types/index.d.ts'
+[13:6:13.823] Adding entry into typings cache: 'mongodb' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/mongodb/index.d.ts'
+[13:6:13.936] Adding entry into typings cache: 'mongoose' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/mongoose/index.d.ts'
+[13:6:13.969] Adding entry into typings cache: 'mongoose-unique-validator' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/mongoose-unique-validator/index.d.ts'
+[13:6:14.60] Adding entry into typings cache: 'morgan' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/morgan/index.d.ts'
+[13:6:14.68] Adding entry into typings cache: 'negotiator' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/negotiator/index.d.ts'
+[13:6:14.197] Adding entry into typings cache: 'node' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/node/ts3.2/index.d.ts'
+[13:6:14.313] Adding entry into typings cache: 'nodemon' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/nodemon/index.d.ts'
+[13:6:14.344] Adding entry into typings cache: 'object-assign' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/object-assign/index.d.ts'
+[13:6:14.358] Adding entry into typings cache: 'on-finished' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/on-finished/index.d.ts'
+[13:6:14.368] Adding entry into typings cache: 'on-headers' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/on-headers/index.d.ts'
+[13:6:14.371] Adding entry into typings cache: 'parseurl' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/parseurl/index.d.ts'
+[13:6:14.374] Adding entry into typings cache: 'passport' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/passport/index.d.ts'
+[13:6:14.379] Adding entry into typings cache: 'passport-local' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/passport-local/index.d.ts'
+[13:6:14.389] Adding entry into typings cache: 'passport-strategy' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/passport-strategy/index.d.ts'
+[13:6:14.424] Adding entry into typings cache: 'pause' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/pause/index.d.ts'
+[13:6:14.469] Adding entry into typings cache: 'pug' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/pug/index.d.ts'
+[13:6:14.496] Adding entry into typings cache: 'random-bytes' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/random-bytes/index.d.ts'
+[13:6:14.525] Adding entry into typings cache: 'request' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/request/index.d.ts'
+[13:6:14.770] Adding entry into typings cache: 'serve-static' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/serve-static/index.d.ts'
+[13:6:14.779] Adding entry into typings cache: 'slug' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/slug/index.d.ts'
+[13:6:14.806] Adding entry into typings cache: 'statuses' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/statuses/index.d.ts'
+[13:6:14.861] Adding entry into typings cache: 'uid-safe' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/uid-safe/index.d.ts'
+[13:6:14.878] Adding entry into typings cache: 'underscore' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/underscore/index.d.ts'
+[13:6:14.891] Adding entry into typings cache: 'vary' => '/home/swrogers/.cache/typescript/3.8/node_modules/@types/vary/index.d.ts'
+[13:6:14.891] Finished processing cache location '/home/swrogers/.cache/typescript/3.8'
+[13:6:14.892] Process id: 12852
+[13:6:14.892] NPM location: /home/swrogers/.nvm/versions/node/v13.9.0/bin/npm (explicit '--npmLocation' not  provided)
+[13:6:14.892] validateDefaultNpmLocation: false
+[13:6:14.892] Npm config file: /home/swrogers/.cache/typescript/3.8/package.json
+[13:6:14.892] Updating types-registry npm package...
+[13:6:14.893] Exec: /home/swrogers/.nvm/versions/node/v13.9.0/bin/npm install --ignore-scripts types-registry@latest
+[13:6:31.91]     Succeeded. stdout:
+    + types-registry@0.1.486
+    updated 1 package and audited 425 packages in 4.216s
+found 0 vulnerabilities
+
+
+[13:6:31.92] Updated types-registry npm package
+[13:6:43.869] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/swrogers/projects/web-dev-bootcamp/section12/script.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/swrogers/projects/web-dev-bootcamp/section12","kind":"discover"}
+[13:6:43.888] Loaded safelist from types map file '/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/typesMap.json'
+[13:6:43.888] Explicitly included types: []
+[13:6:43.890] Inferred typings from unresolved imports: []
+[13:6:43.890] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/swrogers/projects/web-dev-bootcamp/section12/bower_components","/home/swrogers/projects/web-dev-bootcamp/section12/node_modules"]}
+[13:6:43.890] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/swrogers/projects/web-dev-bootcamp/section12/bower_components","/home/swrogers/projects/web-dev-bootcamp/section12/node_modules"]}
+[13:6:43.890] DirectoryWatcher:: Added:: WatchInfo: /home/swrogers/projects/web-dev-bootcamp/section12/bower_components
+[13:6:43.894] DirectoryWatcher:: Added:: WatchInfo: /home/swrogers/projects/web-dev-bootcamp/section12/node_modules
+[13:6:43.894] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[13:6:43.895] Response has been sent.
+[13:6:43.895] No new typings were requested as a result of typings discovery
