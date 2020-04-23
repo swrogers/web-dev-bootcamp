@@ -100,3 +100,23 @@ found 0 vulnerabilities
     {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
 [11:3:31.417] Response has been sent.
 [11:3:31.417] No new typings were requested as a result of typings discovery
+[14:13:48.151] Got install request {"projectName":"/dev/null/inferredProject3*","fileNames":["/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/swrogers/.nvm/versions/node/v13.9.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/swrogers/projects/web-dev-bootcamp/section14/script.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/swrogers/projects/web-dev-bootcamp/section14","kind":"discover"}
+[14:13:48.151] Explicitly included types: []
+[14:13:48.151] Inferred typings from unresolved imports: []
+[14:13:48.151] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/swrogers/projects/web-dev-bootcamp/section14/bower_components","/home/swrogers/projects/web-dev-bootcamp/section14/node_modules"]}
+[14:13:48.152] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/swrogers/projects/web-dev-bootcamp/section14/bower_components","/home/swrogers/projects/web-dev-bootcamp/section14/node_modules"]}
+[14:13:48.152] DirectoryWatcher:: Added:: WatchInfo: /home/swrogers/projects/web-dev-bootcamp/section14/bower_components
+[14:13:48.152] DirectoryWatcher:: Added:: WatchInfo: /home/swrogers/projects/web-dev-bootcamp/section14/node_modules
+[14:13:48.152] Sending response:
+    {"projectName":"/dev/null/inferredProject3*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[14:13:48.152] Response has been sent.
+[14:13:48.152] No new typings were requested as a result of typings discovery
+[14:13:48.516] Got install request {"projectName":"/dev/null/inferredProject3*","fileNames":[],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/swrogers/projects/web-dev-bootcamp/section14","kind":"discover"}
+[14:13:48.516] Explicitly included types: []
+[14:13:48.516] Inferred typings from unresolved imports: []
+[14:13:48.516] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/swrogers/projects/web-dev-bootcamp/section14/bower_components","/home/swrogers/projects/web-dev-bootcamp/section14/node_modules"]}
+[14:13:48.516] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/swrogers/projects/web-dev-bootcamp/section14/bower_components","/home/swrogers/projects/web-dev-bootcamp/section14/node_modules"]}
+[14:13:48.516] Sending response:
+    {"projectName":"/dev/null/inferredProject3*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[14:13:48.517] Response has been sent.
+[14:13:48.517] No new typings were requested as a result of typings discovery
